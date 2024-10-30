@@ -1,6 +1,6 @@
 # SocialKit
 ### SOLO PARA TERMUX USERS ###
-Kit de herramientas para hackear facebook por ahora
+Kit de herramientas para por ahora
 
 pkg update && pkg upgrade 
 
